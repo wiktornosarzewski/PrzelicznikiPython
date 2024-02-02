@@ -4,4 +4,6 @@ oraz
 
 Kalkulator wieku
 
-Aplikacje konsolowe napisane w Pythonie
+Aplikacje konsolowe napisane w Pythonie 3.11
+
+3o2o24
